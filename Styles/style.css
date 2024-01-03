@@ -1,0 +1,12 @@
+h3{
+    background-color: aqua;
+}
+p{
+    font-size: 30px;
+    background-color: red;
+    color: green;
+}
+img{
+    width: 500px;
+    height: auto;
+}
